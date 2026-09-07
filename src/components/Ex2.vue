@@ -20,6 +20,6 @@
     <!-- Add code here -->
      <img v-bind:src="myImg" :width="width" :height="height" />
 
-     <!-- <img v-bind="obj"/> -->
+     <img v-bind="obj"/>
    
 </template>
